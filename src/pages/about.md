@@ -32,6 +32,7 @@ Our work includes:
 
 - Hyperlocal digital journalism  
 - Community storytelling and reporting  
+- Book publishing and literary works  
 - Web platform development  
 - Digital infrastructure for media and organizations  
 
@@ -49,6 +50,20 @@ Our first operational newsroom, **Bidire News**, is a hyperlocal digital publica
 👉 https://www.bidirenews.com
 
 Bidire News focuses on civic developments, education, local events, and community-driven reporting.
+
+---
+
+### Asha Media House Publishing  
+**Asha Media House Publishing** is the literary publishing division of Asha Media House, dedicated to bringing original poetry, fiction, and creative works to readers.
+
+Our debut releases are:
+
+- **The Heart of Chaos — Mercurial Tales** by Niharika HG — [Order here](https://link-bundle.ashawebstudio.com/l/674m3j45)  
+- **Vandhana** by Suhan J Bangera — [Order here](https://link-bundle.suhan.art/l/6r686v35)
+
+For publishing enquiries, manuscript submissions, or any questions:  
+📧 suhan@ashamedia.in  
+📱 [+91-7624834366](https://wa.me/917624834366) (WhatsApp available)
 
 ---
 
