@@ -11,7 +11,7 @@ tags:
   - books
   - asha-media
   - company-update
-description: Asha Media House announces the launch of its publishing division with two debut poetry collections — Vandhana by Suhan J Bangera and The Heart of Chaos - Mercurial Tales by Niharika HG.
+description: Asha Media House announces the launch of its publishing division with two debut poetry collections — Vandhana by Suhan J Bangera and The Heart of Chaos - Mercurial Thoughts by Niharika HG.
 ---
 
 Asha Media House is proud to announce the launch of its **publishing division** — and with it, the release of our first two books.
@@ -20,7 +20,7 @@ Both are works of poetry. Both are deeply personal. And together, they mark the 
 
 ---
 
-## The Heart of Chaos — Mercurial Tales by Niharika HG
+## The Heart of Chaos — Mercurial Thoughts by Niharika HG
 
 ![The Heart of Chaos by Niharika HG](/The%20Heart%20of%20Chaos.jpeg)
 

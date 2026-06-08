@@ -58,7 +58,7 @@ Bidire News focuses on civic developments, education, local events, and communit
 
 Our debut releases are:
 
-- **The Heart of Chaos — Mercurial Tales** by Niharika HG — [Order here](https://link-bundle.ashawebstudio.com/l/674m3j45)  
+- **The Heart of Chaos — Mercurial Thoughts** by Niharika HG — [Order here](https://link-bundle.ashawebstudio.com/l/674m3j45)  
 - **Vandhana** by Suhan J Bangera — [Order here](https://link-bundle.suhan.art/l/6r686v35)
 
 For publishing enquiries, manuscript submissions, or any questions:  
